@@ -72,7 +72,7 @@ void shuffleQuestions(Question questions[], int count) {
 }
 
 void askQuestion(Question *q, int *score) {
-    printf("\n\033[1;34m%s\033[0m\n", q->question); // Blue for question
+    printf("\n\033[1;34m%s\033[0m\n", q->question);
 
     for (int i = 0; i < 4; i++) {
         printf("%d. %s\n", i + 1, q->options[i]);
@@ -85,9 +85,8 @@ void askQuestion(Question *q, int *score) {
         printf("Choose an answer (1-4): ");
         scanf("%s", input);
 
-        // Check if input is numeric
         if (strlen(input) == 1 && input[0] >= '1' && input[0] <= '4') {
-            answer = input[0] - '0'; // convert char to int
+            answer = input[0] - '0';
             break;
         } else {
             printf("Invalid answer. Please choose a number between 1 and 4.\n");
@@ -95,9 +94,9 @@ void askQuestion(Question *q, int *score) {
     }
     if (answer == q->correctAnswer) {
         *score += q->difficulty;
-        printf("\033[0;32mCorrect!\033[0m\n"); // Green
+        printf("\033[0;32mCorrect!\033[0m\n");
     } else {
-        printf("\033[0;31mWrong!\033[0m\n"); // Red
+        printf("\033[0;31mWrong!\033[0m\n");
     }
 }
 
