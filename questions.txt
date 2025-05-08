@@ -1,0 +1,50 @@
+What is the capital of France?|Paris|London|Berlin|Rome|1|1
+What is the fourth planet from the Sun?|Earth|Mars|Jupiter|Saturn|3|2
+Who wrote "Romeo and Juliet"?|William Shakespeare|Charles Dickens|Jane Austen|Mark Twain|1|1
+What is 3 + 6?|7|8|9|10|3|1
+Who is known for the theory of gravity?|Isaac Newton|Albert Einstein|Galileo Galilei|Nikola Tesla|1|2
+What is the boiling point of water at sea level?|90°C|100°C|110°C|120°C|2|1
+Who painted the Mona Lisa?|Vincent van Gogh|Pablo Picasso|Leonardo da Vinci|Claude Monet|3|1
+What is the chemical formula for water?|O2|CO2|H2O|H2O2|3|1
+Which planet is known as the "Red Planet"?|Earth|Mars|Jupiter|Venus|2|1
+What is the largest ocean on Earth?|Atlantic Ocean|Indian Ocean|Arctic Ocean|Pacific Ocean|4|1
+Who invented the telephone?|Alexander Graham Bell|Nikola Tesla|Thomas Edison|Marie Curie|1|1
+What currency is used in Japan?|Yuan|Won|Yen|Ringgit|3|1
+Which element has the chemical symbol O?|Oxygen|Osmium|Ozone|Oganesson|1|1
+Who was the first president of the United States?|George Washington|Abraham Lincoln|Thomas Jefferson|John Adams|1|1
+What is the freezing point of water in Fahrenheit?|32°F|0°F|-32°F|-100°F|1|1
+What is 4 - 2?|1|2|3|5|2|1
+Which desert is the largest in the world?|Sahara|Gobi|Arctic|Antarctic|4|1
+What is the speed of light?|300,000 km/s|100,000 km/s|500,000 km/s|1,000,000 km/s|1|2
+Who wrote "1984"?|George Orwell|Aldous Huxley|J.K. Rowling|F. Scott Fitzgerald|1|1
+What is the king of the jungle?|Lion|Tiger|Elephant|Giraffe|1|1
+What is the chemical symbol for gold?|Au|Ag|Pb|Fe|1|1
+Who was the god of the sea in Greek mythology?|Zeus|Poseidon|Apollo|Hades|1|1
+What is the largest animal on Earth?|Elephant|Blue Whale|Shark|Giraffe|2|1
+What is the capital of Australia?|Sydney|Melbourne|Brisbane|Canberra|4|1
+What is the most abundant element in the Earth's atmosphere?|Oxygen|Nitrogen|Hydrogen|Carbon|3|1
+Who invented the electric bulb?|Nikola Tesla|Alexander Graham Bell|Thomas Edison|Benjamin Franklin|3|1
+What is the longest river in the world?|Amazon River|Nile River|Yangtze River|Mississippi River|2|2
+What flower is associated with Japan?|Rose|Tulip|Cherry Blossom|Lily|3|1
+What is the hardest natural substance on Earth?|Gold|Diamond|Platinum|Iron|2|1
+Which planet is closest to the Sun?|Mercury|Venus|Mars|Earth|1|1
+What is the capital of Canada?|Toronto|Ottawa|Vancouver|Montreal|2|1
+What is the highest mountain on Earth?|Mount Everest|K2|Mount Kilimanjaro|Mount Fuji|1|1
+Which continent has the most countries?|Asia|Europe|Africa|South America|3|1
+What currency is used in the UK?|Dollar|Pound|Euro|Yen|2|1
+Who wrote "Harry Potter"?|J.K. Rowling|George R.R. Martin|J.R.R. Tolkien|C.S. Lewis|1|1
+Which asteroid is the largest in our solar system?|Vesta|Ceres|Pallas|Juno|2|2
+What fruit is often mistaken for a vegetable?|Tomato|Avocado|Onion|Chili|2|1
+Who was the second man on the Moon?|Buzz Aldrin|Yuri Gagarin|Neil Armstrong|Michael Collins|3|2
+What is the hottest planet in our solar system?|Earth|Mars|Mercury|Venus|3|1
+Who is known for the painting "Starry Night"?|Claude Monet|Vincent van Gogh|Pablo Picasso|Leonardo da Vinci|2|1
+What is the capital of Germany?|Berlin|Munich|Frankfurt|Hamburg|1|1
+Who is considered the father of modern computing?|Charles Babbage|Alan Turing|John von Neumann|Bill Gates|1|1
+Which bone is the longest in the human body?|Femur|Tibia|Humerus|Fibula|1|1
+Which planet is known as the "Ringed Planet"?|Earth|Saturn|Uranus|Neptune|2|1
+What is the tallest building in the world?|Eiffel Tower|Empire State Building|Burj Khalifa|Shanghai Tower|3|1
+Who was the teacher of Alexander the Great?|Plato|Aristotle|Socrates|Pythagoras|3|1
+Which planet is called the "Morning Star"?|Mercury|Venus|Mars|Jupiter|2|1
+What is the capital of Spain?|Madrid|Barcelona|Seville|Valencia|1|1
+What is the largest gas giant in our solar system?|Earth|Mars|Jupiter|Saturn|3|2
+What is the smallest country in the world?|Monaco|Vatican City|San Marino|Liechtenstein|2|1
